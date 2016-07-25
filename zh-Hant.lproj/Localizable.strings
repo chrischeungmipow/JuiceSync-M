@@ -1,0 +1,102 @@
+/* 
+  Localizable.strings
+  JuiceSync
+
+  Created by Guorong ZHANG on 4/14/14.
+
+*/
+"Status" = "Status";
+
+"Discovered" = "Discovered";
+
+"Discovering" = "Discovering";
+
+"Discovery_Off" = "Discovery Off";
+
+"Bluetooth_Off" = "Bluetooth Off";
+"No_Battery"    = "No Battery Found";
+"State_Charging0"= "Charging";
+"State_Discharging0"="Discharging";
+"State_Charging1"= "Charging.";
+"State_Discharging1"="Discharging.";
+"State_Charging2"= "Charging..";
+"State_Discharging2"="Discharging..";
+"State_Charging3"= "Charging...";
+"State_Discharging3"="Discharging...";
+
+"Guideinfo1" = "Power switch";
+"Guideinfo2" = "Short press ON/OFF button, POWER TUBE 5200 works properly if any LED is ON.";
+"Guideinfo3" = "In the discovered device list, choose POWER TUBE 5200 and connect it.";
+"Guideinfo4" = "Once connected, the battery level, battery temperature and signal strength are displayed.";
+"Guideinfo5" = "Press the button at the upper right corner, you can drop the connection with POWER TUBE 5200.";
+"Guideinfo6" = "In Low Battery Alarm Setting, you can enable the low battery alarm and set the battery level to alert.";
+"Guideinfo7" = "In High Temperature Alarm Setting, you can enable the high temperature alarm and set the temperature to alert.";
+"Guideinfo8" = "In Out-Of-Range Alarm Setting, you can enable the out-of-range alarm.";
+
+"P1" = "Tutorial_p1";
+"P2" = "Tutorial_p2";
+"P3" = "Tutorial_p3";
+"P4" = "Tutorial_p4";
+"P5" = "Tutorial_p5";
+"P6" = "Tutorial_p6";
+"P7" = "Tutorial_p7";
+"P8" = "Tutorial_p8";
+
+"P1_4S" = "Tutorial_p1_4S";
+"P2_4S" = "Tutorial_p2_4S";
+"P3_4S" = "Tutorial_p3_4S";
+"P4_4S" = "Tutorial_p4_4S";
+"P5_4S" = "Tutorial_p5_4S";
+"P6_4S" = "Tutorial_p6_4S";
+"P7_4S" = "Tutorial_p7_4S";
+"P8_4S" = "Tutorial_p8_4S";
+
+"userguide" = "User Guide";
+"about" = "About Us";
+"Autoreconnect" = "AutoReconnect Status";
+"AutoreconnectTime" = "AutoReconnect Time";
+"TemperatureUnit" = "Temperature Unit";
+
+"Enabled" = "Enabled";
+"Disabled" = "Disabled";
+
+"Prompt" = "Alert";
+"Promptmsg" = "Comfirm to disconnect?";
+"RenameDevice"= "Rename Battery";
+"Renamemsg" = "Enter Battery Name";
+"cancel" = "Cancel";
+"comfirm" = "Confirm";
+"OK" = "OK";
+"timeNotSet" = "Time not set";
+"SoundNotSet" = "Sound not set";
+
+"BattAlert" = "Battery Alert";
+"TempAlert" = "Temp Alert";
+"AwayAlert" = "Away Alert";
+"AlertSetting" = "Alert Setting";
+"LowCapa10" = "Capacity 10%";
+"LowCapa20" = "Capacity 20%";
+"LowCapa30" = "Capacity 30%";
+"TempSetting" = "Temperature Setting";
+"AlarmSetting" = "Alarm Setting";
+"TempPromptC" = "Temperature Setting: 131°F";
+"TempPromptF" = "Temperature Setting: 55℃";
+
+"outRangeAlert" =  "Your battery has been turned off or is out of range. Please turn it on or get closer to resume connection";
+"LowBattAlertContent" = "Your battery is low";
+"TempAlertContent" = "Your battery is too hot";
+"RangeAlertContent" = "Your battery is too far away";
+"ChargeComplete" = "Charging Completed";
+"ChargeFilled" = "Filled";
+"Options" = "Options";
+"AppName"= "JuiceSync";
+"Rename" = "Rename";
+"Disconnect" = "Disconnect";
+"AlertSetting" = "Alert Setting";
+"General" = "General";
+"VersionNum" = "1.2.2";
+"BattLife" = "YOUR BATTERY LIFE";
+"Control" = "Control";
+"Save" = "Save";
+
+"aboutus" = "MIPOW, founded in 2010 as a young innovative brand with the key value of \"Make it Different\", is an authorized manufacturing licensee of Apple Inc. We bring together a unique blend of industrial, electronic & software design, precision engineering and high quality manufacturing. \n \nOur functional and fashionable designs have won many prestigious design awards including: European \"Red Dot\", International Forum \"iF\", Japan \"Good Design\" and Macworld \"Best\" awards. MIPOW takes pride in its innovation and holds numerous patents. \n \nMIPOW has offices in Hong Kong, Japan, the United States and United Kingdom with sales channels covering Asia, Europe, America, Australia, Africa and the Middle East.";
